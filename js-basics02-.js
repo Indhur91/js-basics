@@ -7,4 +7,4 @@ function max(a,b){
         return b;
     }
 }
-console.log(max(9,10));
+console.log(max(1,10));

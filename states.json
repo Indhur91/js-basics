@@ -1,0 +1,47 @@
+US states: [
+{
+    "state": "california",
+    "capital":"sacramento",
+    "population":1812376,
+    "area sq":412345,
+    "region":"pacific",
+    "area code":916
+    
+},
+{
+"state": "Florida",
+"capital":"Tallahassee",
+"population":1812376,
+"area sq":412345,
+"region":"south",
+"area code":805
+},
+{
+"state": "columbus",
+"capital":"ohio",
+"population":9012376,
+"area sq":412345,
+"region":"north",
+"area code":614
+},
+{
+"state": "Texas",
+"capital":"Austin",
+"population":1812376,
+"area sq":412345,
+"region":"south",
+"area code":512
+},
+{
+    
+    "state": "North Carolina",
+    "capital":"Raleigh",
+    "population":1812376,
+    "area sq":412345,
+    "region":"soouth",
+    "area code":916
+},
+
+
+
+

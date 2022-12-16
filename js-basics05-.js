@@ -14,11 +14,3 @@ function celtofar(c){
     
 console.log(celtofar(37));
 
-// conversion kg to pounds and vice versa
-function convertPoundsToKilograms(pounds) {
- if  var kilograms = pounds * 0.453592;
-    return kilograms;
-  }
-  function convertKilogramsToPounds(kilograms){
-    return kilograms * 2.20462;
-  }
