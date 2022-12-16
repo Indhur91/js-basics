@@ -38,10 +38,18 @@ US states: [
     "capital":"Raleigh",
     "population":1812376,
     "area sq":412345,
-    "region":"soouth",
+    "region":"south east",
     "area code":916
 },
-
+{
+"state": "south Carolina",
+"capital":"columbia",
+"population":1812376,
+"area sq":412345,
+"region":"south east",
+"area code":916
+}
+]
 
 
 

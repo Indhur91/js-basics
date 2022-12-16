@@ -1,0 +1,27 @@
+"team india" :  [
+    {
+        "playername": "virat",
+        "age": 35,
+        "best score": 112
+    },
+{
+        "playername": "rohit",
+        "age": 32,
+        "best score": 100
+    },
+{
+        "playername": "rahul",
+        "age": 30,
+        "best score": 117
+    },
+{
+        "playername": "dhoni",
+        "age": 35,
+        "best score": 112
+    },
+{
+        "playername": "ashwin",
+        "age": 35,
+        "best score": 100
+    }
+]
