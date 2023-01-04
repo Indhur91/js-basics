@@ -1,7 +1,12 @@
-var lb= 72;
-var kilograms = lb / 2.205;
-console.log(kilograms);
+ 
+// using functions
+function convertPoundsToKilograms(pounds) {
+    var kilograms = pounds * 0.453592;
+    return kilograms;
+  }
+  console.log(convertPoundsToKilograms(72));
 
-var kilograms =52;
-var lb = kilograms*2.205;
-console.log(lb);  
+  function convertKilogramsToPounds(kilograms){
+    return kilograms * 2.20462;
+  }
+  console.log(convertKilogramsToPounds(52));
