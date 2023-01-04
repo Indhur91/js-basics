@@ -1,3 +1,5 @@
+
+
 // function that returns shortest words
 var arr = ["aaaa", "aa", "aa", "aaaaa", "a", "aaaaaaaa"];
 
@@ -8,7 +10,7 @@ console.log(arr.reduce(function(a, b) {
 
 
 // returns shortest words if array is passed
-const words = ['bil', 'plante', 'kaffe', 'bog', 'ei', 'planetarium'];
+const words = ['ball', 'plant', 'bat', 'twelve', 'apples', 'banana'];
 
 function getShortestWord(w) {
   let shortestWord = w[0];
